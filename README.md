@@ -1,4 +1,10 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Devito Kurniawan Candra**.<br>
+
+Saya seorang **Pembelajar** di [Dicoding](https://www.dicoding.com/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/devito-kurniawan-candra/)ku ya.
 
 <!--
 **Devito14/Devito14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
